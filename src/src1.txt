@@ -9,3 +9,5 @@ Updated feature1 for int branch
 
 
 Updated master file while it was updated in int branch
+
+Updated master file while it was merged with int branch
