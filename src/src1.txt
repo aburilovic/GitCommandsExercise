@@ -6,3 +6,6 @@ This is source1 doc line 5
 
 Working on feature1 for int branch
 Updated feature1 for int branch
+
+
+Updated master file while it was updated in int branch
