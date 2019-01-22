@@ -5,3 +5,4 @@ This is source1 doc line 4
 This is source1 doc line 5
 
 Working on feature1 for int branch
+Updated feature1 for int branch
